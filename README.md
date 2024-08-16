@@ -1,2 +1,2 @@
 # beta
-repositrio de trabajo quinto semestre programacion avanzada
+repositorio de trabajo quinto semestre programacion avanzada
