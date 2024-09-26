@@ -4,13 +4,13 @@
   Developer : samuel
 */
 $servername = "localhost" ;   //127.0.0.1
-$username = "postgres";
-$password = "unicesmag";
-$dbname = "beta";
-$port = "5432";
+$username   = "postgres";
+$password   = "unicesmag";
+$dbname     = "beta";
+$port       = "5432";
 
 $data_connection = "
-   host     =  $host 
+   host     =  $servername
    port     =  $port 
    dbname   =  $dbname 
    user     =  $username 
