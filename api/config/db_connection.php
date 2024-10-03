@@ -25,6 +25,6 @@ if (!$conn){
    echo "Connected successfully";  //This will print if connection is successful.  For production, you may want to redirect to an error page.  This is just for demonstration purposes.  Always check your database connection status before proceeding.  You can also log this information in your application logs.  Good luck!  :)  }
 }
 
-pg_close($conn);
+//pg_close($conn);
 
 ?> 
